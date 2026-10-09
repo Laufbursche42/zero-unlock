@@ -308,10 +308,6 @@
     },
 
     docs: {
-      disclaimer: {
-        de: 'Dieses Werkzeug ist eine Machbarkeitsstudie, kein fertiges Produkt. Es gibt keine Gewährleistung und keine Zusicherung fehlerfreien Betriebs. Das Anheben der Geschwindigkeit hebt die Drossel auf: die ABE erlischt und der Betrieb auf öffentlichen Wegen ist dann nicht erlaubt. Nutze es nur am eigenen Fahrzeug und auf eigenes Risiko. Die Seite spricht nur lokal über Bluetooth mit dem Gerät, es werden keine Daten an einen Server gesendet. MQCON und ZERO sind Marken der jeweiligen Inhaber. Dieses Projekt ist unabhängig und steht in keiner Verbindung zu ihnen.',
-        en: 'This tool is a feasibility study, not a finished product. There is no warranty and no guarantee of error-free operation. Raising the speed removes the throttle: the type approval becomes void and riding on public roads is then not allowed. Use it only on your own vehicle and at your own risk. The page talks to the device locally over Bluetooth only, no data is sent to any server. MQCON and ZERO are trademarks of their respective owners. This project is independent and not affiliated with them.'
-      },
       trademarks: { de: 'MQCON und ZERO sind Marken der jeweiligen Inhaber.', en: 'MQCON and ZERO are trademarks of their respective owners.' },
       guide: { de: 'GUIDE.de.md', en: 'GUIDE.en.md' },
       readme: { de: 'README.md', en: 'README.md' }
